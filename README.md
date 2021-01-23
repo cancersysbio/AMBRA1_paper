@@ -5,7 +5,7 @@ Include scripts for reproduce Fig 5fg and Fig5h
 
 Contact:
 Andrea Chaikovsky: achaikov@stanford.edu
-Jose A. Seoane: seonae@stanford.edu
+Jose A. Seoane: seoane@stanford.edu
 Preethi Srinivasan: preethi.srinivasan@stanford.edu
 Christina Curtis: cncurtis@stanford.edu
 Julien Sage: julsage@stanford.edu
